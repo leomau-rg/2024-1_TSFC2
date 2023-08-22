@@ -1,0 +1,6 @@
+Leer configuración básica y flujo de trabajo.
+
+git config --global user.name "Su nombre"
+git config --global user.email "usuario@email-de-verdad"
+git config --global color.ui "auto"
+git config --global github.user "Usuario_GitHub"
