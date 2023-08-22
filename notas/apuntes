@@ -4,3 +4,17 @@ git config --global user.name "Su nombre"
 git config --global user.email "usuario@email-de-verdad"
 git config --global color.ui "auto"
 git config --global github.user "Usuario_GitHub"
+
+Flujo de trabajo
+
+git pull [<alias remote> <rama remote>]
+Para añadir cambios de la tarea, hay que hacer git push al alias de nuestro fork.
+
+Servidores remotos:
+
+git remote add [alias] [dirección]
+Para poder editar en un fork ajeno, hay que estar dado de alta como colaborador.
+
+git checkout [nombre rama]
+
+¡Todas estas notas están en el repo de LBenet!
